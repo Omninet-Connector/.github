@@ -1,4 +1,4 @@
-🌐 OMNINET CONNECTOR™
+🌐 OMNINET CONNECTOR™ by ![M-Labs AI](https://mlabsai.lovable.app)
 
 «Building the Autonomous Network Fabric of the Future»
 
